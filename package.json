@@ -1,6 +1,6 @@
 {
   "name": "node-red-number-conversions",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Node-red functions to convert numbers",
   "main": "index.js",
   "type": "module",
