@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:domenech-io/node-red-number-conversions.git"
+    "url": "git+ssh://git@github.com/domenech-io/node-red-number-conversions.git"
   },
   "keywords": [
     "node-red"
